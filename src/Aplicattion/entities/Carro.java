@@ -3,10 +3,10 @@ package Aplicattion.entities;
 import java.util.Objects;
 
 public class Carro {
-    private String modelo;
-    private String marca;
-    private String cor;
-    private int ano;
+    public String modelo;
+    public String marca;
+    public String cor;
+    public int ano;
 
     public Carro() {
     }

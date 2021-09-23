@@ -1,7 +1,6 @@
 package Aplicattion;
 
 
-
 import Aplicattion.entities.Carro;
 
 import java.util.Locale;
